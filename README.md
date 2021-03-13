@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://chinyangatl.github.io/testimonial-grid/)
+- Solution URL: [(https://github.com/ChinyangaTL/testimonial-grid)]
+- Live Site URL: [(https://chinyangatl.github.io/testimonial-grid/)]
 
 ## My process
 
